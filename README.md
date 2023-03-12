@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **milk717/milk717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milk717&show_icons=true&theme=radical)
+[Blog](https://milk717.github.io/)
+[Algorithm](https://github.com/milk717/Algorithm/blob/main/README.md)
+[Solved.ac](https://solved.ac/profile/lindasoo)
