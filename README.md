@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Blog](https://milk717.github.io/). 
-[Algorithm](https://github.com/milk717/Algorithm/blob/main/README.md). 
-[Solved.ac](https://solved.ac/profile/lindasoo). 
+[Blog](https://milk717.github.io/)  
+
+[Algorithm](https://github.com/milk717/Algorithm/blob/main/README.md)  
+
+[Solved.ac](https://solved.ac/profile/lindasoo)  
+
