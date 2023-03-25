@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Blog](https://milk717.github.io/)  
+[Blog](https://blog.milk717.com/)  
 
 [Algorithm](https://github.com/milk717/Algorithm/blob/main/README.md)  
 
