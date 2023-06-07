@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 
 [Solved.ac](https://solved.ac/profile/lindasoo)  
 
-[React & Nodejs Study](https://github.com/sureact)
+[Study](https://github.com/sureact)
+
+[University](https://github.com/su-inu)
